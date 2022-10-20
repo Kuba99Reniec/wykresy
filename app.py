@@ -5,13 +5,13 @@ import dash_html_components as html
 import plotly.graph_objects as go
 import pandas as pd
 
-dane_cawi_capi = pd.read_csv("dane_do_dasha.txt")
+dane_cawi_capi = pd.read_csv("https://raw.githubusercontent.com/Kuba99Reniec/wykresy/master/dane_do_dasha.txt")
 options = []
 for col in dane_cawi_capi.columns[:-1]:
     options.append({'label':'{}'.format(col, col), 'value':col})
 value = 'Wielkość gospodarstwa domowego (6 kategorii)'
-wartosci = pd.read_csv('6_opis_wartości_zmiennych_20220819_opinie_km.txt', sep="\t")
-zmienne = pd.read_csv('5_opis_zmiennych_20220819_podwojny_konwerter_opinie.txt', sep="\t")
+wartosci = pd.read_csv("6_opis_wartości_zmiennych_20220819_opinie_km.txt", sep="\t")
+zmienne = pd.read_csv("https://github.com/Kuba99Reniec/wykresy/blob/master/5_opis_zmiennych_20220819_podwojny_konwerter_opinie.txt", sep="\t")
 wartosci = wartosci.merge(zmienne, on = "Nazwa zmiennej")
 zmienna = 'RS: Płeć'
 
@@ -86,4 +86,4 @@ def update_figure(value, fig):
     return fig
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug = True)
