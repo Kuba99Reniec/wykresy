@@ -1,4 +1,4 @@
-nazwa zmiennej	wartość	Etykieta	etykieta	usemissing
+Nazwa zmiennej	wartość	Etykieta	etykieta	usemissing
 WAVE	161	Styczeń 2008	Styczeń 2008	0,0
 WAVE	162	Luty 2008	Luty 2008	0,0
 WAVE	163	Marzec 2008	Marzec 2008	0,0
