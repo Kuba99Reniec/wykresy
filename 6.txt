@@ -1526,14 +1526,19 @@ TUR_CZY	1	Tak	Tak	0,0
 TUR_CZY	0	Nie	Nie	0,0
 TUR_DZIA	0	Nie	Nie	0,0
 TUR_DZIA	1	Tak	Tak	0,0
+TUR_DZIA	9	Nie dotyczy	Nie dotyczy	0,0
 TUR_RKRA	0	Nie	Nie	0,0
 TUR_RKRA	1	Tak	Tak	0,0
+TUR_RKRA	9	Nie dotyczy	Nie dotyczy	0,0
 TUR_RZAG	0	Nie	Nie	0,0
 TUR_RZAG	1	Tak	Tak	0,0
+TUR_RZAG	9	Nie dotyczy	Nie dotyczy	0,0
 TUR_WKRA	0	Nie	Nie	0,0
 TUR_WKRA	1	Tak	Tak	0,0
+TUR_WKRA	9	Nie dotyczy	Nie dotyczy	0,0
 TUR_WZAG	0	Nie	Nie	0,0
 TUR_WZAG	1	Tak	Tak	0,0
+TUR_WZAG	9	Nie dotyczy	Nie dotyczy	0,0
 WCZOR_PRA	0	Nie czytał(a)	Nie czytał(a)	0,0
 WCZOR_PRA	1	0.01-0.29	0.01-0.29	0,0
 WCZOR_PRA	2	0.30-0.59	0.30-0.59	0,0
