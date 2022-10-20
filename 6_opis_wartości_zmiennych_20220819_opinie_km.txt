@@ -1,4 +1,4 @@
-Nazwa zmiennej	wartość	Etykieta	etykieta	usemissing
+nazwa zmiennej	wartość	Etykieta	etykieta	usemissing
 WAVE	161	Styczeń 2008	Styczeń 2008	0,0
 WAVE	162	Luty 2008	Luty 2008	0,0
 WAVE	163	Marzec 2008	Marzec 2008	0,0
@@ -471,7 +471,7 @@ EDUK13	10	Licencjat, inżynierskie	Licencjat, inżynierskie	0,0
 EDUK13	11	Wyższe magisterskie	Wyższe magisterskie	0,0
 EDUK13	12	Studia podyplomowe, mba, doktoranckie	Studia podyplomowe, mba, doktoranckie	0,0
 EDUK13	13	Doktorat lub wyższy stopień naukowy	Doktorat lub wyższy stopień naukowy	0,0
-EDUK13	14	Trudno powiedzieć	Trudno powiedzieć	0,0
+EDUK13	97	Trudno powiedzieć	Trudno powiedzieć	0,0
 EDUK	1	Niepełne podstawowe	Niepełne podstawowe	0,0
 EDUK	2	Podstawowe	Podstawowe	0,0
 EDUK	3	Zasadnicze zawodowe	Zasadnicze zawodowe	0,0
@@ -489,7 +489,6 @@ EDUK4	4	Ponadśrednie	Ponadśrednie	0,0
 EDUK4	8	Brak odpowiedzi	Brak odpowiedzi	0,0
 UCZYSIE	1	Tak	Tak	0,0
 UCZYSIE	0	Nie	Nie	0,0
-UCZYSIE	99	Nie dotyczy	Nie dotyczy	0,0
 SZKOLA	1	W szkole podstawowej, gimnazjalnej	W szkole podstawowej, gimnazjalnej	0,0
 SZKOLA	2	W zasadniczej szkole zawodowej	W zasadniczej szkole zawodowej	0,0
 SZKOLA	3	W średniej ogólnokształcącej lub zawodowej	W średniej ogólnokształcącej lub zawodowej	0,0
@@ -1228,42 +1227,36 @@ ZNJEZANG	3	Zna średnio (porozumiewa się za pomocą podstawowych zwrotów)	Zna 
 ZNJEZANG	4	Zna słabo (zna pojedyncze słowa i zwroty)	Zna słabo (zna pojedyncze słowa i zwroty)	0,0
 ZNJEZANG	5	Nie zna	Nie zna	0,0
 ZNJEZANG	6	Trudno powiedzieć	Trudno powiedzieć	0,0
-ZNJEZANG	99	Nie dotyczy	Nie dotyczy	0,0
 ZNJEZNIE	1	Zna biegle (płynnie się posługuje)	Zna biegle (płynnie się posługuje)	0,0
 ZNJEZNIE	2	Zna dobrze (porozumiewa się swobodnie)	Zna dobrze (porozumiewa się swobodnie)	0,0
 ZNJEZNIE	3	Zna średnio (porozumiewa się za pomocą podstawowych zwrotów)	Zna średnio (porozumiewa się za pomocą podstawowych zwrotów)	0,0
 ZNJEZNIE	4	Zna słabo (zna pojedyncze słowa i zwroty)	Zna słabo (zna pojedyncze słowa i zwroty)	0,0
 ZNJEZNIE	5	Nie zna	Nie zna	0,0
 ZNJEZNIE	6	Trudno powiedzieć	Trudno powiedzieć	0,0
-ZNJEZNIE	99	Nie dotyczy	Nie dotyczy	0,0
 ZNJEZFRA	1	Zna biegle (płynnie się posługuje)	Zna biegle (płynnie się posługuje)	0,0
 ZNJEZFRA	2	Zna dobrze (porozumiewa się swobodnie)	Zna dobrze (porozumiewa się swobodnie)	0,0
 ZNJEZFRA	3	Zna średnio (porozumiewa się za pomocą podstawowych zwrotów)	Zna średnio (porozumiewa się za pomocą podstawowych zwrotów)	0,0
 ZNJEZFRA	4	Zna słabo (zna pojedyncze słowa i zwroty)	Zna słabo (zna pojedyncze słowa i zwroty)	0,0
 ZNJEZFRA	5	Nie zna	Nie zna	0,0
 ZNJEZFRA	6	Trudno powiedzieć	Trudno powiedzieć	0,0
-ZNJEZFRA	99	Nie dotyczy	Nie dotyczy	0,0
 ZNJEZROS	1	Zna biegle (płynnie się posługuje)	Zna biegle (płynnie się posługuje)	0,0
 ZNJEZROS	2	Zna dobrze (porozumiewa się swobodnie)	Zna dobrze (porozumiewa się swobodnie)	0,0
 ZNJEZROS	3	Zna średnio (porozumiewa się za pomocą podstawowych zwrotów)	Zna średnio (porozumiewa się za pomocą podstawowych zwrotów)	0,0
 ZNJEZROS	4	Zna słabo (zna pojedyncze słowa i zwroty)	Zna słabo (zna pojedyncze słowa i zwroty)	0,0
 ZNJEZROS	5	Nie zna	Nie zna	0,0
 ZNJEZROS	6	Trudno powiedzieć	Trudno powiedzieć	0,0
-ZNJEZROS	99	Nie dotyczy	Nie dotyczy	0,0
 ZNJEZHIS	1	Zna biegle (płynnie się posługuje)	Zna biegle (płynnie się posługuje)	0,0
 ZNJEZHIS	2	Zna dobrze (porozumiewa się swobodnie)	Zna dobrze (porozumiewa się swobodnie)	0,0
 ZNJEZHIS	3	Zna średnio (porozumiewa się za pomocą podstawowych zwrotów)	Zna średnio (porozumiewa się za pomocą podstawowych zwrotów)	0,0
 ZNJEZHIS	4	Zna słabo (zna pojedyncze słowa i zwroty)	Zna słabo (zna pojedyncze słowa i zwroty)	0,0
 ZNJEZHIS	5	Nie zna	Nie zna	0,0
 ZNJEZHIS	6	Trudno powiedzieć	Trudno powiedzieć	0,0
-ZNJEZHIS	99	Nie dotyczy	Nie dotyczy	0,0
 ZNJEZWLO	1	Zna biegle (płynnie się posługuje)	Zna biegle (płynnie się posługuje)	0,0
 ZNJEZWLO	2	Zna dobrze (porozumiewa się swobodnie)	Zna dobrze (porozumiewa się swobodnie)	0,0
 ZNJEZWLO	3	Zna średnio (porozumiewa się za pomocą podstawowych zwrotów)	Zna średnio (porozumiewa się za pomocą podstawowych zwrotów)	0,0
 ZNJEZWLO	4	Zna słabo (zna pojedyncze słowa i zwroty)	Zna słabo (zna pojedyncze słowa i zwroty)	0,0
 ZNJEZWLO	5	Nie zna	Nie zna	0,0
 ZNJEZWLO	6	Trudno powiedzieć	Trudno powiedzieć	0,0
-ZNJEZWLO	99	Nie dotyczy	Nie dotyczy	0,0
 JEZYKI_I	0	Nie zna żadnego języka lub zna podstawowe słowa	Nie zna żadnego języka lub zna podstawowe słowa	0,0
 JEZYKI_I	1	Zna jeden język na poziomie podstawowym	Zna jeden język na poziomie podstawowym	0,0
 JEZYKI_I	2	Zna dwa lub więcej języków na poziomie podstawowym	Zna dwa lub więcej języków na poziomie podstawowym	0,0
